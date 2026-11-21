@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTube Ad Skipper</string>
+    <string name="service_description">Skips YouTube &amp; YouTube Music ads, surveys, upsells, and SponsorBlock segments. Made by Zion Aube v1.2.</string>
+</resources>
