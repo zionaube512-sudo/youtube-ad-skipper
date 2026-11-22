@@ -11,6 +11,10 @@ public class PrefsHelper {
     public static final String KEY_SURVEYS = "enable_surveys";
     public static final String KEY_RESUME = "enable_resume";
     public static final String KEY_SPONSORBLOCK = "enable_sponsorblock";
+    public static final String KEY_AUTO_QUALITY = "pref_auto_quality";
+    public static final String KEY_HIDE_FEATURED_PLAYABLES = "pref_hide_featured_playables";
+    public static final String KEY_DAILY_SUMMARY = "pref_daily_summary";
+
 
     public static final String STAT_YT_ADS = "stat_yt_ads";
     public static final String STAT_YTM_ADS = "stat_ytm_ads";
